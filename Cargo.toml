@@ -1,0 +1,9 @@
+[package]
+authors = ["Nathan Glimsdale <nglimsdale@gmail.com>"]
+name = "stm32f302x"
+version = "0.1.0"
+
+[dependencies]
+bare-metal = "0.1.1"
+cortex-m = "0.3.1"
+vcell = "0.1.0"
